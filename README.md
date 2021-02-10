@@ -1,6 +1,6 @@
 
 <center>
-	<img width="auto" height="auto" src='logo.png' />
+	<img width="auto" height="auto" src='docs/img/logo.png' />
 </center>
 
 # JSS (JAVASCRIPT STYLE SHEET)
